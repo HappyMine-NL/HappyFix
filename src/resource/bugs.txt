@@ -1,0 +1,9 @@
+Bugs:
+
+functie checkLore:
+
+# = zorgen dat hij lores op kleur kan filteren. ben er nog niet uit x)
+
+verder zou alles moeten werken.
+
+# = fixed

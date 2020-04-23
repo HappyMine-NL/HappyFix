@@ -1,0 +1,13 @@
+# Plugin created by DeStilleGast
+
+name: Fix
+main: com.destillegast.Fix
+version: "1.1"
+commands:
+  setlore:
+  fix:
+  fastfix:
+
+api-version: "1.13"
+author: "DeStilleGast"
+prefix: "Fix"

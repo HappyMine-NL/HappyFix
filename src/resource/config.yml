@@ -1,0 +1,22 @@
+prefix: "&8[&bFix&8]&7 "
+
+geen permissie: "Je hebt geen permissie voor dit"
+mag niet repareren: "Dit item mag niet gerepareerd worden"
+wait: "Wacht nog maar even {time} minut(en)!"
+fixed: "Item gerepareerd!"
+
+#Wacht tijd in minuten
+Wait time: 60 
+Wait time fast: 30
+
+# Tekens die niet in de lore mogen voorkomen.
+# Kleuren is ook ondersteund.
+#
+# !! Alleen woorden !!
+
+disabled_lores:
+- :)
+- Koek
+- Poep
+- &ckoek
+- &3Aardappel
